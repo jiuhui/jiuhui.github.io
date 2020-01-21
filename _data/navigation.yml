@@ -48,3 +48,12 @@ header:
       fr-LU   : *FR
       # @end locale config
     url: /about.html
+docs-zh:
+  - title:      导航示例
+    children:
+      - title: 1_策略模式
+        url: https://jiuhui.github.io/2016/07/01/strategy.html
+      - title: 2_装饰器模式
+        url: https://jiuhui.github.io/2016/07/01/decorator.html
+      - title:  3_观察者模式
+        url:    http://jiuhui.github.io/2016/07/01/observer
